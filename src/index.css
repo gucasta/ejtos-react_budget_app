@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.select-currency {
+  background-color: lightgreen;
+  color: white;
+  border-radius: 5px;
+  border-color: lightgray;
+  width: 70%;
+}
+
+.select-currency option {
+  color: black;
+}
